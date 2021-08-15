@@ -92,6 +92,7 @@ header {
 }
 #bienvenidos {
     background: rgba(100,0,0,.7);
+    padding: 15px;
 }
 #bienvenidos h2, p {
     text-align: center;
@@ -105,6 +106,7 @@ header {
     font-size: 28px;
     color: #fff;
     text-align: center;
+    padding: 10px;
 }
 #blog img {
     max-width: 480px;
